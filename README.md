@@ -1,3 +1,6 @@
 # 👋 Hi, I’m @isivisi
+I like making tools that help people :)
 
-Im currently working on a dnd soundboard with midi support :)
+## Active Projects
+- Some fun VCVRack modules
+- A dnd soundboard with midi support 
