@@ -1,6 +1,8 @@
 # 👋 Hi, I’m @isivisi
 I like making tools that help people :)
 
+### Website: [isivisi.ca](https://isivisi.ca)
+
 ### Active Projects
 - Some fun VCVRack modules
 - A dnd soundboard with midi support 
