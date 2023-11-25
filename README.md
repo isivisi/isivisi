@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @isivisi
-I like making tools that help people :)
+I like making useful tools :)
 
 ### Website: [isivisi.ca](https://isivisi.ca)
 
